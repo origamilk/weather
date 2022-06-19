@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <style>
         body {
-            background-color:  #2f3437; <!-- set this value to match your background color (#2f3437 is the default "dark" theme color) -->
+            background-color:  #ffffff;
         }
     </style>
     <meta charset="UTF-8">
